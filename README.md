@@ -16,8 +16,8 @@ The repository is compatible with `tensorflow` and utilizes the Keras API via `t
 * Clone the repository and navigate to the directory:
 
 ```bash
-git clone https://github.com/hoangtung719/Design_project_1.git
-cd Design_project_1
+git clone https://github.com/hoangtung719/Emotic-Detection.git
+cd Emotic-Detection
 ```
 
 * If you want to retrain the model, download the FER-2013 dataset from [here](https://www.kaggle.com/datasets/jonathanoheix/face-expression-recognition-dataset) and then save it to the `Source_code` directory.
