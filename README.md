@@ -57,7 +57,7 @@ Source_code:
 
 ## Data Preparation (Optional)
 
-* [The original FER-2013 dataset on Kaggle] (https://www.kaggle.com/datasets/deadskull7/fer2013) is available as a csv file. I have used a pre-converted image version for training/testing.
+* [The original FER-2013 dataset on Kaggle](https://www.kaggle.com/datasets/deadskull7/fer2013) is available as a csv file. I have used a pre-converted image version for training/testing.
 
 * For experimenting with new datasets, simply change the paths in `train_dir` and `val_dir`.
 
