@@ -57,7 +57,7 @@ Source_code:
 
 ## Data Preparation (Optional)
 
-* The original FER2013 dataset on Kaggle is available as a csv file. I have used a pre-converted image version for training/testing.
+* The original FER-2013 dataset on Kaggle is available as a csv file. I have used a pre-converted image version for training/testing.
 
 * For experimenting with new datasets, simply change the paths in `train_dir` and `val_dir`.
 
