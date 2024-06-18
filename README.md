@@ -20,7 +20,7 @@ git clone https://github.com/hoangtung719/Design_project_1.git
 cd Design_project_1
 ```
 
-* If you want to retrain the model, download the FER-2013 dataset from [here](https://www.kaggle.com/datasets/jonathanoheix/face-express-recognition-dataset) and then save it to the `Source_code` directory.
+* If you want to retrain the model, download the FER-2013 dataset from [here](https://www.kaggle.com/datasets/jonathanoheix/face-expression-recognition-dataset) and then save it to the `Source_code` directory.
 
 * To train the model:
 
